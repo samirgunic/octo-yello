@@ -1,5 +1,5 @@
 # octo-yello
 My GitHub inauguration.
 
-*octo*: one cool cat
+*octo*: one cool cat :octocat:
 *yello:* one cool band
